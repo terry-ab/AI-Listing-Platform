@@ -1,0 +1,2 @@
+# AI Listing Platform
+ The AI listing Platform simplifies the process of selling household items during relocation. Users upload images of items they wish to sell, and the AI employs object detection to identify and outline objects like beds, tables, chairs, lamps, etc. The intuitive interface allows users to set prices, add descriptions, and prepare listings effortlessly. With this platform, selling becomes hassle-free, helping users declutter efficiently and make moving a seamless experience.
